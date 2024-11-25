@@ -9,6 +9,8 @@
   * [a. ADReSS 2020 InterSpeech](#a-adress-2020-interspeech)
   * [b. ADReSS 2020 Frontiers](#b-adress-2020-frontiers)
   * [c. ADReSSo 2021](#c-adresso-2021)
+  * [d. ADReSS-M 2023](#d-adress-m-2023)
+  * [e. TalkDial 2024](#e-talkdial-2024)
 - [3. Novel research topics in dementia](#3-novel-research-topics-in-dementia)
   * [ASR](#asr)
   * [Data Augmentation](#data-augmentation)
@@ -109,7 +111,7 @@
 	- [Alzheimer's Dementia Recognition Using Acoustic, Lexical, Disfluency and Speech Pause Features Robust to Noisy Inputs](https://doi.org/10.21437/interspeech.2021-1633) - Morteza Rohanian, Julian Hough, Matt Purver, Interspeech, (2021), Cited By: 33
 	- [Modular Multi-Modal Attention Network for Alzheimer's Disease Detection Using Patient Audio and Language Data](https://doi.org/10.21437/interspeech.2021-2024) - Ning Wang, Yupeng Cao, Shuai Hao, Zongru Shao, K.P. Subbalakshmi, Interspeech, (2021), Cited By: 21
 
-#### d. SPGC Challenge 2023
+#### d. ADReSS-M 2023
 - 2024
 	- [An Overview of the ADReSS-M Signal Processing Grand Challenge on Multilingual Alzheimer’s Dementia Recognition Through Spontaneous Speech](https://doi.org/10.1109/OJSP.2024.3378595) - Saturnino Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, I. Kompatsiaris, B. MacWhinney, IEEE Open Journal of Signal Processing, (2024), Cited By: 2
 - 2023
@@ -119,7 +121,7 @@
 	- [The Ustc System for Adress-m Challenge](https://doi.org/10.1109/ICASSP49357.2023.10094714) - Kangdi Mei, Xinyun Ding, Yinlong Liu, Zhiqiang Guo, Feiyang Xu, Xin Li, Tuya Naren, Jiahong Yuan, Zhenhua Ling, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 5
 	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://doi.org/10.1109/ICASSP49357.2023.10096770) - Bastiaan Tamm, R. Vandenberghe, H. V. hamme, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 8
 
-#### e. TalkDual 2024
+#### e. TalkDial 2024
 - 2024
 	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
 	- [Multilingual Speech and Language Analysis for the Assessment of Mild Cognitive Impairment: Outcomes from the Taukadial Challenge](https://doi.org/10.21437/interspeech.2024-2115) - P. A. Pérez-Toro, T. Arias-Vergara, P. Klumpp, Tobias Weise, Maria Schuster, E. Noeth, J. Orozco-Arroyave, Andreas Maier, Interspeech, (2024), Cited By: 0
