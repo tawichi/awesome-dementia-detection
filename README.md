@@ -10,7 +10,7 @@
   * [b. ADReSS 2020 Frontiers](#b-adress-2020-frontiers)
   * [c. ADReSSo 2021](#c-adresso-2021)
   * [d. ADReSS-M 2023](#d-adress-m-2023)
-  * [e. TalkDial 2024](#e-talkdial-2024)
+  * [e. TAUKDIAL 2024](#e-taukdial-2024)
 - [3. Novel research topics in dementia](#3-novel-research-topics-in-dementia)
   * [ASR](#asr)
   * [Data Augmentation](#data-augmentation)
@@ -121,7 +121,7 @@
 	- [The Ustc System for Adress-m Challenge](https://doi.org/10.1109/ICASSP49357.2023.10094714) - Kangdi Mei, Xinyun Ding, Yinlong Liu, Zhiqiang Guo, Feiyang Xu, Xin Li, Tuya Naren, Jiahong Yuan, Zhenhua Ling, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 5
 	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://doi.org/10.1109/ICASSP49357.2023.10096770) - Bastiaan Tamm, R. Vandenberghe, H. V. hamme, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 8
 
-#### e. TalkDial 2024
+#### e. TAUKDIAL 2024
 - 2024
 	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
 	- [Multilingual Speech and Language Analysis for the Assessment of Mild Cognitive Impairment: Outcomes from the Taukadial Challenge](https://doi.org/10.21437/interspeech.2024-2115) - P. A. Pérez-Toro, T. Arias-Vergara, P. Klumpp, Tobias Weise, Maria Schuster, E. Noeth, J. Orozco-Arroyave, Andreas Maier, Interspeech, (2024), Cited By: 0
