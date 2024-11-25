@@ -32,7 +32,7 @@
   * [Asthma](#asthma)
   * [Disfluency](#disfluency)
   * [Parkinson’s Disease](#parkinson-s-disease)
-- [6. Useful repositories]
+- [6. Useful repositories](#6-useful-repositries)
 
 ## Papers
 
