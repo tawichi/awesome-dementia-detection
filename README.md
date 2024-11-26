@@ -550,7 +550,7 @@
 
 ### 6. Useful repositories
 - Speaker diarization
-	- [Pyannote](https://github.com/pyannote/pyannote-audio)
+	- [Pyannote](https://github.com/pyannote/pyannote-audio): star 6.4k
  	- [PyaudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis): star 5.9k 
 - Acoustic feature extraction
   	- [Wav2vec2-xlsr53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53)
