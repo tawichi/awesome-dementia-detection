@@ -377,7 +377,8 @@
 - 2017
 	- [An Avatar-Based System for Identifying Individuals Likely to Develop Dementia](https://doi.org/10.21437/Interspeech.2017-690) - B. Mirheidari, D. Blackburn, K. Harkness, Traci Walker, A. Venneri, M. Reuber, H. Christensen, Interspeech, (2017), Cited By: 30
 
-### 4. Regular papers
+<details>
+<summary>### 4. Regular papers</summary>
 - 2024
 	- [Comparison of AI with and without hand-crafted features to classify Alzheimer's disease in different languages](https://doi.org/10.1016/j.compbiomed.2024.108950) - Tong Min Kim, Junhyeok Son, J. Chun, Youngrong Lee, Dai-Jin Kim, I. Choi, Taehoon Ko, Seungjin Choi, Comput. Biol. Medicine, (2024), Cited By: 1
 	- [Analysis of Voice Biomarkers for the Detection of Cognitive Impairment](https://doi.org/10.1109/ACCESS.2024.3442431) - Moisés R. Pacheco-Lorenzo, Heidi Christensen, Luis Anido-Rifón, M. J. Fernández-Iglesias, Sonia Valladares-Rodríguez, IEEE Access, (2024), Cited By: 0
@@ -487,7 +488,7 @@
 	- [Detecting Mild Cognitive Impairment from Spontaneous Speech by Correlation-Based Phonetic Feature Selection](https://doi.org/10.21437/Interspeech.2016-384) - G. Gosztolya, L. Tóth, Tamás Grósz, V. Vincze, I. Hoffmann, Gréta Szatlóczki, M. Pákáski, J. Kálmán, Interspeech, (2016), Cited By: 35
 - 2015
 	- [Linguistic Features Identify Alzheimer's Disease in Narrative Speech.](https://doi.org/10.3233/JAD-150520) - Kathleen C. Fraser, Jed A. Meltzer, Frank Rudzicz, Journal of Alzheimer's Disease, (2015), Cited By: 597
-
+</details>
 ### 5. Related works in other domains
 
 #### Aphasia
