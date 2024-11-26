@@ -83,10 +83,10 @@
 	- [Multi-Modal Fusion with Gating Using Audio, Lexical and Disfluency Features for Alzheimer's Dementia Recognition from Spontaneous Speech](https://doi.org/10.21437/Interspeech.2020-2721) - Morteza Rohanian, Julian Hough, Matthew Purver, Interspeech, (2020), Cited By: 52	
 </details>
 
-<details><summary>
+<details>
+<summary>
 
-#### b. ADReSS 2020 Frontiers
-	</summary>
+#### b. ADReSS 2020 Frontiers</summary>
 - 2021
 	- [Temporal Integration of Text Transcripts and Acoustic Features for Alzheimer's Diagnosis Based on Spontaneous Speech](https://doi.org/10.3389/fnagi.2021.642647) - Matej Martinc, F. Haider, S. Pollak, S. Luz, Frontiers in Aging Neuroscience, (2021), Cited By: 33
 	- [Language Impairment in Alzheimer’s Disease—Robust and Explainable Evidence for AD-Related Deterioration of Spontaneous Speech Through Multilingual Machine Learning](https://doi.org/10.3389/fnagi.2021.642033) - Hali Lindsay, J. Tröger, A. König, Frontiers in Aging Neuroscience, (2021), Cited By: 33
