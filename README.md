@@ -516,9 +516,14 @@
 	- [Using X-Vectors to Automatically Detect Parkinson’s Disease from Speech](https://doi.org/10.1109/ICASSP40776.2020.9053770) - L. Moro-Velázquez, J. Villalba, N. Dehak, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2020), Cited By: 45
 
 ### 6. Useful repositories
-
-- [Pyannote](https://github.com/pyannote/pyannote-audio)
-
+- speaker diarization
+	- [Pyannote](https://github.com/pyannote/pyannote-audio)
+- feature extraction
+  	- [Wav2vec2-xlsr53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53)
+  	- [Whisper large-v3](https://huggingface.co/openai/whisper-large-v3)
+- Voice activity detection
+  	- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
+  	- [silero-vad](https://github.com/snakers4/silero-vad?utm_source=chatgpt.com)
 
 ***
 
