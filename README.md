@@ -134,16 +134,20 @@
 	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://doi.org/10.1109/ICASSP49357.2023.10096770) - Bastiaan Tamm, R. Vandenberghe, H. V. hamme, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 8
 
 #### e. TAUKDIAL 2024
-- 2024
-	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
+- 1st solution
 	- [Multilingual Speech and Language Analysis for the Assessment of Mild Cognitive Impairment: Outcomes from the Taukadial Challenge](https://doi.org/10.21437/interspeech.2024-2115) - P. A. Pérez-Toro, T. Arias-Vergara, P. Klumpp, Tobias Weise, Maria Schuster, E. Noeth, J. Orozco-Arroyave, Andreas Maier, Interspeech, (2024), Cited By: 0
+ - 3rd solution
+   	- [Pre-trained Feature Fusion and Matching for Mild Cognitive Impairment Detection](https://doi.org/10.21437/interspeech.2024-2386) - Junwen Duan, Fangyuan Wei, Hongdong Li, Jin Liu, Interspeech, (2024), Cited By: 0
+- 5th solution
 	- [Leveraging Universal Speech Representations for Detecting and Assessing the Severity of Mild Cognitive Impairment Across Languages](https://doi.org/10.21437/interspeech.2024-2030) - A. Favaro, Tianyu Cao, N. Dehak, L. Moro-Velázquez, Interspeech, (2024), Cited By: 0
-	- [Pre-trained Feature Fusion and Matching for Mild Cognitive Impairment Detection](https://doi.org/10.21437/interspeech.2024-2386) - Junwen Duan, Fangyuan Wei, Hongdong Li, Jin Liu, Interspeech, (2024), Cited By: 0
+- Other papers
 	- [CogniVoice: Multimodal and Multilingual Fusion Networks for Mild Cognitive Impairment Assessment from Spontaneous Speech](https://doi.org/10.48550/arXiv.2407.13660) - Jiali Cheng, Mohamed Elgaar, Nidhi Vakil, Hadi Amiri, Interspeech, (2024), Cited By: 0
 	- [Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis](https://doi.org/10.48550/arXiv.2406.07542) - David Ortiz-Perez, José García Rodríguez, David Tomás, Interspeech, (2024), Cited By: 0
 	- [The Interspeech 2024 TAUKADIAL Challenge: Multilingual Mild Cognitive Impairment Detection with Multimodal Approach](https://doi.org/10.21437/interspeech.2024-1352) - Benjamin Barrera-Altuna, Daeun Lee, Zaima Zarnaz, Jinyoung Han, Seungbae Kim, Interspeech, (2024), Cited By: 0
 	- [Connected Speech-Based Cognitive Assessment in Chinese and English](https://doi.org/10.48550/arXiv.2406.10272) - Saturnino Luz, Sofia de la Fuente Garcia, F. Haider, Davida Fromm, B. MacWhinney, Alyssa Lanzi, Ya‐Ning Chang, Chia-Ju Chou, Yi‐Chien Liu, Interspeech, (2024), Cited By: 3
 	- [Translingual Language Markers for Cognitive Assessment from Spontaneous Speech](https://doi.org/10.21437/interspeech.2024-1422) - Bao Hoang, Yijiang Pang, Hiroko Dodge, Jiayu Zhou, Interspeech, (2024), Cited By: 0
+ - other papers
+	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
 
 ### 3. Novel research topics in dementia
 
