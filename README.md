@@ -38,12 +38,13 @@
 
 ### 1. Survey papers
 - 2024
-	- [Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques] (https://arxiv.org/abs/2410.18972)
+ 	- [Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques] (https://arxiv.org/abs/2410.18972)
  	- [Speech based detection of Alzheimer’s disease: a survey of AI techniques, datasets and challenges](https://link.springer.com/article/10.1007/s10462-024-10961-6)
+
 <details>	
-<summary> Others
-</summary>
+<summary> 
 	
+Others</summary>
 - 2023
 	- [AI and Non AI Assessments for Dementia](https://doi.org/10.48550/arXiv.2307.01210), arXiv.org, (2023), Cited By: 2
 	- [Machine Learning for Dementia Prediction: A Systematic Review and Future Research Directions](https://doi.org/10.1007/s10916-023-01906-7), Journal of medical systems, (2023), Cited By: 45
