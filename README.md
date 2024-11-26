@@ -122,7 +122,7 @@
 - 2nd solution
   	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://arxiv.org/abs/2303.03049)
 - 3rd solution
-  	- [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
+        - [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
 - 4th solution
         - [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://ieeexplore.ieee.org/document/10095593)
 - 5th solution	
