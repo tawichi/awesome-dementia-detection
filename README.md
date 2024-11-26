@@ -114,7 +114,7 @@
 
 #### d. ADReSS-M 2023
 - Challenge description paper
-	- [Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech: a Signal Processing Grand Challenge](https://arxiv.org/abs/2301.05562)
+	- [Multilingual Alzheimer’s Dementia Recognition through Spontaneous Speech: A Signal Processing Grand Challenge](https://doi.org/10.1109/ICASSP49357.2023.10433923) - S. Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, Y. Kompatsiaris, B. MacWhinney, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 14
 - Overview paper
 	- [An Overview of the ADReSS-M Signal Processing Grand Challenge on Multilingual Alzheimer’s Dementia Recognition Through Spontaneous Speech](https://doi.org/10.1109/OJSP.2024.3378595) - Saturnino Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, I. Kompatsiaris, B. MacWhinney, IEEE Open Journal of Signal Processing, (2024), Cited By: 2
 - 1st solution
@@ -128,12 +128,13 @@
 - 5th solution
 	- [Cross-Lingual Alzheimer’s Disease Detection Based on Paralinguistic and Pre-Trained Features](https://doi.org/10.1109/ICASSP49357.2023.10095522) - Xuchu Chen, Yujiang Pu, Jinpeng Li, Weiqiang Zhang, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 7
  - Other papers
-	- [Multilingual Alzheimer’s Dementia Recognition through Spontaneous Speech: A Signal Processing Grand Challenge](https://doi.org/10.1109/ICASSP49357.2023.10433923) - S. Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, Y. Kompatsiaris, B. MacWhinney, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 14
 	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://doi.org/10.1109/ICASSP49357.2023.10095593) - Zehra Shah, Shiguang Qi, Fei Wang, Mahtab Farrokh, Mashrura Tasnim, Eleni Stroulia, R. Greiner, Manos Plitsis, Athanasios Katsamanis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 4
 	- [The Ustc System for Adress-m Challenge](https://doi.org/10.1109/ICASSP49357.2023.10094714) - Kangdi Mei, Xinyun Ding, Yinlong Liu, Zhiqiang Guo, Feiyang Xu, Xin Li, Tuya Naren, Jiahong Yuan, Zhenhua Ling, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 5
 	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://doi.org/10.1109/ICASSP49357.2023.10096770) - Bastiaan Tamm, R. Vandenberghe, H. V. hamme, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 8
 
 #### e. TAUKDIAL 2024
+- Challenge decsription paepr
+	- [Connected Speech-Based Cognitive Assessment in Chinese and English](https://doi.org/10.48550/arXiv.2406.10272) - Saturnino Luz, Sofia de la Fuente Garcia, F. Haider, Davida Fromm, B. MacWhinney, Alyssa Lanzi, Ya‐Ning Chang, Chia-Ju Chou, Yi‐Chien Liu, Interspeech, (2024), Cited By: 3
 - 1st solution
 	- [Multilingual Speech and Language Analysis for the Assessment of Mild Cognitive Impairment: Outcomes from the Taukadial Challenge](https://doi.org/10.21437/interspeech.2024-2115) - P. A. Pérez-Toro, T. Arias-Vergara, P. Klumpp, Tobias Weise, Maria Schuster, E. Noeth, J. Orozco-Arroyave, Andreas Maier, Interspeech, (2024), Cited By: 0
  - 3rd solution
@@ -144,9 +145,7 @@
 	- [CogniVoice: Multimodal and Multilingual Fusion Networks for Mild Cognitive Impairment Assessment from Spontaneous Speech](https://doi.org/10.48550/arXiv.2407.13660) - Jiali Cheng, Mohamed Elgaar, Nidhi Vakil, Hadi Amiri, Interspeech, (2024), Cited By: 0
 	- [Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis](https://doi.org/10.48550/arXiv.2406.07542) - David Ortiz-Perez, José García Rodríguez, David Tomás, Interspeech, (2024), Cited By: 0
 	- [The Interspeech 2024 TAUKADIAL Challenge: Multilingual Mild Cognitive Impairment Detection with Multimodal Approach](https://doi.org/10.21437/interspeech.2024-1352) - Benjamin Barrera-Altuna, Daeun Lee, Zaima Zarnaz, Jinyoung Han, Seungbae Kim, Interspeech, (2024), Cited By: 0
-	- [Connected Speech-Based Cognitive Assessment in Chinese and English](https://doi.org/10.48550/arXiv.2406.10272) - Saturnino Luz, Sofia de la Fuente Garcia, F. Haider, Davida Fromm, B. MacWhinney, Alyssa Lanzi, Ya‐Ning Chang, Chia-Ju Chou, Yi‐Chien Liu, Interspeech, (2024), Cited By: 3
 	- [Translingual Language Markers for Cognitive Assessment from Spontaneous Speech](https://doi.org/10.21437/interspeech.2024-1422) - Bao Hoang, Yijiang Pang, Hiroko Dodge, Jiayu Zhou, Interspeech, (2024), Cited By: 0
- - other papers
 	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
 
 ### 3. Novel research topics in dementia
