@@ -125,7 +125,7 @@
         - [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
 - 4th solution
         - [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://ieeexplore.ieee.org/document/10095593)
-- 5th solution	
+- 5th solution
 	- [Cross-Lingual Alzheimer’s Disease Detection Based on Paralinguistic and Pre-Trained Features](https://doi.org/10.1109/ICASSP49357.2023.10095522) - Xuchu Chen, Yujiang Pu, Jinpeng Li, Weiqiang Zhang, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 7
  - Other papers
 	- [Multilingual Alzheimer’s Dementia Recognition through Spontaneous Speech: A Signal Processing Grand Challenge](https://doi.org/10.1109/ICASSP49357.2023.10433923) - S. Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, Y. Kompatsiaris, B. MacWhinney, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 14
