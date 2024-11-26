@@ -44,10 +44,8 @@
 	
 <summary>
 	
-#### Others
-
+**Others**
 </summary>
-
 
 - 2023
 	- [AI and Non AI Assessments for Dementia](https://doi.org/10.48550/arXiv.2307.01210), arXiv.org, (2023), Cited By: 2
