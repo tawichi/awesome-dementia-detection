@@ -40,7 +40,7 @@
 - 2024
 	- [Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques] (https://arxiv.org/abs/2410.18972)
  	- [Speech based detection of Alzheimer’s disease: a survey of AI techniques, datasets and challenges](https://link.springer.com/article/10.1007/s10462-024-10961-6)
-- <details>	
+<details>	
 <summary> Others
 </summary>
 	
