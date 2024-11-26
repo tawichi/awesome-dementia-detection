@@ -31,8 +31,8 @@
   * [Aphasia](#aphasia)
   * [Asthma](#asthma)
   * [Disfluency](#disfluency)
-  * [Parkinson’s Disease](#parkinson-s-disease)
-- [6. Useful repositories](#6-useful-repositries)
+  * [Parkinson’s Disease](#parkinsons-disease)
+- [6. Useful repositories](#6-useful-repositories)
 
 ## Papers
 
