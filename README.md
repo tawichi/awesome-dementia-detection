@@ -551,11 +551,15 @@
 ### 6. Useful repositories
 - Speaker diarization
 	- [Pyannote](https://github.com/pyannote/pyannote-audio)
-- Feature extraction
+- Acoustic feature extraction
   	- [Wav2vec2-xlsr53](https://huggingface.co/facebook/wav2vec2-large-xlsr-53)
   	- [Whisper large-v3](https://huggingface.co/openai/whisper-large-v3)
   	- [OpenSmile](https://github.com/audeering/opensmile)
-  	- [XLM-RoBERTa-large](https://huggingface.co/FacebookAI/xlm-roberta-large)
+- Language feature extraction
+	- [XLM-RoBERTa-large](https://huggingface.co/FacebookAI/xlm-roberta-large)
+	- [LaBSE](https://huggingface.co/sentence-transformers/LaBSE)
+	- [Multilingual e5 large](https://huggingface.co/intfloat/multilingual-e5-large)
+	- [XLM-Roberta-Large-Vit-L-14](
 - Voice activity detection
   	- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
   	- [silero-vad](https://github.com/snakers4/silero-vad?utm_source=chatgpt.com)
