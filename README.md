@@ -62,8 +62,10 @@
 </details>
 
 ### 2. Special challenges
-
-#### a. ADReSS 2020 InterSpeech
+<details> 
+<summary>
+	
+#### a. ADReSS 2020 InterSpeech</summary>
 - 2020
 	- [The INESC-ID Multi-Modal System for the ADReSS 2020 Challenge](https://doi.org/10.21437/interspeech.2020-2833), Interspeech, (2020), Cited By: 34
 	- [Multiscale System for Alzheimer's Dementia Recognition Through Spontaneous Speech](https://doi.org/10.21437/interspeech.2020-2781), Interspeech, (2020), Cited By: 31
@@ -78,7 +80,9 @@
 	- [Disfluencies and Fine-Tuning Pre-Trained Language Models for Detection of Alzheimer's Disease](https://doi.org/10.21437/interspeech.2020-2516) - Jiahong Yuan, Yuchen Bian, Xingyu Cai, Jiaji Huang, Z. Ye, Kenneth Ward Church, Interspeech, (2020), Cited By: 85
 	- [Alzheimer's Dementia Recognition through Spontaneous Speech: The ADReSS Challenge](https://doi.org/10.21437/interspeech.2020-2571) - S. Luz, F. Haider, S. D. L. Fuente, Davida Fromm, B. MacWhinney, Interspeech, (2020), Cited By: 215
 	- [Exploiting Multi-Modal Features From Pre-trained Networks for Alzheimer's Dementia Recognition](https://doi.org/10.21437/interspeech.2020-3153) - Junghyun Koo, Jie Hwan Lee, Jaewoo Pyo, Yujin Jo, Kyogu Lee, Interspeech, (2020), Cited By: 41
-	- [Multi-Modal Fusion with Gating Using Audio, Lexical and Disfluency Features for Alzheimer's Dementia Recognition from Spontaneous Speech](https://doi.org/10.21437/Interspeech.2020-2721) - Morteza Rohanian, Julian Hough, Matthew Purver, Interspeech, (2020), Cited By: 52
+	- [Multi-Modal Fusion with Gating Using Audio, Lexical and Disfluency Features for Alzheimer's Dementia Recognition from Spontaneous Speech](https://doi.org/10.21437/Interspeech.2020-2721) - Morteza Rohanian, Julian Hough, Matthew Purver, Interspeech, (2020), Cited By: 52	
+</details>
+
 
 #### b. ADReSS 2020 Frontiers
 - 2021
