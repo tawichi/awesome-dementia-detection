@@ -561,8 +561,8 @@
 	- [LaBSE](https://huggingface.co/sentence-transformers/LaBSE)
 	- [Multilingual e5 large](https://huggingface.co/intfloat/multilingual-e5-large)
 - Voice activity detection
-  	- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
-  	- [silero-vad](https://github.com/snakers4/silero-vad?utm_source=chatgpt.com)
+  	- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad): star 2.1k
+  	- [silero-vad](https://github.com/snakers4/silero-vad?utm_source=chatgpt.com): star:4.4k
 
 ***
 
