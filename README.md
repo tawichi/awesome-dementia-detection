@@ -142,11 +142,10 @@
 - 3rd solution
 	- [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
 - 4th solution
-	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://ieeexplore.ieee.org/document/10095593)
+	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://doi.org/10.1109/ICASSP49357.2023.10095593) - Zehra Shah, Shiguang Qi, Fei Wang, Mahtab Farrokh, Mashrura Tasnim, Eleni Stroulia, R. Greiner, Manos Plitsis, Athanasios Katsamanis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 4
 - 5th solution
 	- [Cross-Lingual Alzheimer’s Disease Detection Based on Paralinguistic and Pre-Trained Features](https://doi.org/10.1109/ICASSP49357.2023.10095522) - Xuchu Chen, Yujiang Pu, Jinpeng Li, Weiqiang Zhang, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 7
  - Other papers
-	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://doi.org/10.1109/ICASSP49357.2023.10095593) - Zehra Shah, Shiguang Qi, Fei Wang, Mahtab Farrokh, Mashrura Tasnim, Eleni Stroulia, R. Greiner, Manos Plitsis, Athanasios Katsamanis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 4
 	- [The Ustc System for Adress-m Challenge](https://doi.org/10.1109/ICASSP49357.2023.10094714) - Kangdi Mei, Xinyun Ding, Yinlong Liu, Zhiqiang Guo, Feiyang Xu, Xin Li, Tuya Naren, Jiahong Yuan, Zhenhua Ling, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 5
 	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://doi.org/10.1109/ICASSP49357.2023.10096770) - Bastiaan Tamm, R. Vandenberghe, H. V. hamme, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 8
 
