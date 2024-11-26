@@ -40,6 +40,10 @@
 - 2024
 	- [Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques] (https://arxiv.org/abs/2410.18972)
  	- [Speech based detection of Alzheimer’s disease: a survey of AI techniques, datasets and challenges](https://link.springer.com/article/10.1007/s10462-024-10961-6)
+<details>
+<summary>#### Others</summary>
+
+
 - 2023
 	- [AI and Non AI Assessments for Dementia](https://doi.org/10.48550/arXiv.2307.01210), arXiv.org, (2023), Cited By: 2
 	- [Machine Learning for Dementia Prediction: A Systematic Review and Future Research Directions](https://doi.org/10.1007/s10916-023-01906-7), Journal of medical systems, (2023), Cited By: 45
@@ -55,7 +59,7 @@
 	- [Artificial Intelligence, Speech, and Language Processing Approaches to Monitoring Alzheimer’s Disease: A Systematic Review](https://doi.org/10.3233/JAD-200888), Journal of Alzheimer's Disease, (2020), Cited By: 124
 - 2018
 	- [A Review of Alzheimer's Disease Classification Using Neuropsychological Data and Machine Learning](https://doi.org/10.1109/CISP-BMEI.2018.8633126),2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), (2018), Cited By: 11
-
+</details>
 ### 2. Special challenges
 
 #### a. ADReSS 2020 InterSpeech
