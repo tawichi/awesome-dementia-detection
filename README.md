@@ -150,7 +150,7 @@ Others</summary>
 	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://doi.org/10.1109/ICASSP49357.2023.10095593) - Zehra Shah, Shiguang Qi, Fei Wang, Mahtab Farrokh, Mashrura Tasnim, Eleni Stroulia, R. Greiner, Manos Plitsis, Athanasios Katsamanis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 4
 	- [The Ustc System for Adress-m Challenge](https://doi.org/10.1109/ICASSP49357.2023.10094714) - Kangdi Mei, Xinyun Ding, Yinlong Liu, Zhiqiang Guo, Feiyang Xu, Xin Li, Tuya Naren, Jiahong Yuan, Zhenhua Ling, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 5
 	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://doi.org/10.1109/ICASSP49357.2023.10096770) - Bastiaan Tamm, R. Vandenberghe, H. V. hamme, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 8
-<details>
+
 #### e. TAUKDIAL 2024
 - Challenge decsription paepr
 	- [Connected Speech-Based Cognitive Assessment in Chinese and English](https://doi.org/10.48550/arXiv.2406.10272) - Saturnino Luz, Sofia de la Fuente Garcia, F. Haider, Davida Fromm, B. MacWhinney, Alyssa Lanzi, Ya‐Ning Chang, Chia-Ju Chou, Yi‐Chien Liu, Interspeech, (2024), Cited By: 3
@@ -166,7 +166,7 @@ Others</summary>
 	- [The Interspeech 2024 TAUKADIAL Challenge: Multilingual Mild Cognitive Impairment Detection with Multimodal Approach](https://doi.org/10.21437/interspeech.2024-1352) - Benjamin Barrera-Altuna, Daeun Lee, Zaima Zarnaz, Jinyoung Han, Seungbae Kim, Interspeech, (2024), Cited By: 0
 	- [Translingual Language Markers for Cognitive Assessment from Spontaneous Speech](https://doi.org/10.21437/interspeech.2024-1422) - Bao Hoang, Yijiang Pang, Hiroko Dodge, Jiayu Zhou, Interspeech, (2024), Cited By: 0
 	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
-</details>
+
 
 ### 3. Novel research topics in dementia
 
