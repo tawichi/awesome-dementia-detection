@@ -120,11 +120,11 @@
 - 1st solution
   	- [CONSEN: Complementary and Simultaneous Ensemble for Alzheimer’s Disease Detection and MMSE Score Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096253)
 - 2nd solution
-  	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://arxiv.org/abs/2303.03049)
+	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://arxiv.org/abs/2303.03049)
 - 3rd solution
-        - [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
+	- [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
 - 4th solution
-        - [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://ieeexplore.ieee.org/document/10095593)
+	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://ieeexplore.ieee.org/document/10095593)
 - 5th solution
 	- [Cross-Lingual Alzheimer’s Disease Detection Based on Paralinguistic and Pre-Trained Features](https://doi.org/10.1109/ICASSP49357.2023.10095522) - Xuchu Chen, Yujiang Pu, Jinpeng Li, Weiqiang Zhang, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 7
  - Other papers
