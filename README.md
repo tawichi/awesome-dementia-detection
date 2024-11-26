@@ -42,7 +42,8 @@
  	- [Speech based detection of Alzheimer’s disease: a survey of AI techniques, datasets and challenges](https://link.springer.com/article/10.1007/s10462-024-10961-6)
 
 <details>	
-<summary> 
+<summary>
+	
 Others</summary>
 - 2023
 	- [AI and Non AI Assessments for Dementia](https://doi.org/10.48550/arXiv.2307.01210), arXiv.org, (2023), Cited By: 2
