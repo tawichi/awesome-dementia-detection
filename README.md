@@ -113,10 +113,21 @@
 	- [Modular Multi-Modal Attention Network for Alzheimer's Disease Detection Using Patient Audio and Language Data](https://doi.org/10.21437/interspeech.2021-2024) - Ning Wang, Yupeng Cao, Shuai Hao, Zongru Shao, K.P. Subbalakshmi, Interspeech, (2021), Cited By: 21
 
 #### d. ADReSS-M 2023
-- 2024
+- Challenge description paper
+	- [Multilingual Alzheimer's Dementia Recognition through Spontaneous Speech: a Signal Processing Grand Challenge](https://arxiv.org/abs/2301.05562)
+- Overview paper
 	- [An Overview of the ADReSS-M Signal Processing Grand Challenge on Multilingual Alzheimer’s Dementia Recognition Through Spontaneous Speech](https://doi.org/10.1109/OJSP.2024.3378595) - Saturnino Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, I. Kompatsiaris, B. MacWhinney, IEEE Open Journal of Signal Processing, (2024), Cited By: 2
-- 2023
+- 1st solution
+  	- [CONSEN: Complementary and Simultaneous Ensemble for Alzheimer’s Disease Detection and MMSE Score Prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096253)
+- 2nd solution
+  	- [Cross-Lingual Transfer Learning for Alzheimer’s Detection from Spontaneous Speech](https://arxiv.org/abs/2303.03049)
+- 3rd solution
+  	- [The Ustc System for Adress-m Challenge](https://ieeexplore.ieee.org/document/10094714)
+- 4th solution
+        - [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://ieeexplore.ieee.org/document/10095593)
+- 5th solution	
 	- [Cross-Lingual Alzheimer’s Disease Detection Based on Paralinguistic and Pre-Trained Features](https://doi.org/10.1109/ICASSP49357.2023.10095522) - Xuchu Chen, Yujiang Pu, Jinpeng Li, Weiqiang Zhang, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 7
+ - Other papers
 	- [Multilingual Alzheimer’s Dementia Recognition through Spontaneous Speech: A Signal Processing Grand Challenge](https://doi.org/10.1109/ICASSP49357.2023.10433923) - S. Luz, F. Haider, Davida Fromm, Ioulietta Lazarou, Y. Kompatsiaris, B. MacWhinney, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 14
 	- [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://doi.org/10.1109/ICASSP49357.2023.10095593) - Zehra Shah, Shiguang Qi, Fei Wang, Mahtab Farrokh, Mashrura Tasnim, Eleni Stroulia, R. Greiner, Manos Plitsis, Athanasios Katsamanis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 4
 	- [The Ustc System for Adress-m Challenge](https://doi.org/10.1109/ICASSP49357.2023.10094714) - Kangdi Mei, Xinyun Ding, Yinlong Liu, Zhiqiang Guo, Feiyang Xu, Xin Li, Tuya Naren, Jiahong Yuan, Zhenhua Ling, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 5
