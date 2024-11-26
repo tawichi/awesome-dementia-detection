@@ -559,7 +559,6 @@
 	- [XLM-RoBERTa-large](https://huggingface.co/FacebookAI/xlm-roberta-large)
 	- [LaBSE](https://huggingface.co/sentence-transformers/LaBSE)
 	- [Multilingual e5 large](https://huggingface.co/intfloat/multilingual-e5-large)
-	- [XLM-Roberta-Large-Vit-L-14](
 - Voice activity detection
   	- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
   	- [silero-vad](https://github.com/snakers4/silero-vad?utm_source=chatgpt.com)
