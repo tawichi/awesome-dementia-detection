@@ -33,6 +33,7 @@
   * [Disfluency](#disfluency)
   * [Parkinson’s Disease](#parkinsons-disease)
 - [6. Useful repositories](#6-useful-repositories)
+- [7. Top conferences and journals](#7-top-conferences-and-journals)
 
 ## Papers
 
