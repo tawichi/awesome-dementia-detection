@@ -563,6 +563,10 @@
 - Voice activity detection
   	- [py-webrtcvad](https://github.com/wiseman/py-webrtcvad): star 2.1k
   	- [silero-vad](https://github.com/snakers4/silero-vad?utm_source=chatgpt.com): star:4.4k
+- Data augumentation
+	- [NLPaug](https://github.com/makcedward/nlpaug): star 4.5k
+	- [Audimentation](https://github.com/iver56/audiomentations): star 1,9K
+	- [Augly](https://github.com/facebookresearch/AugLy): star 5k 
 - Others
 	- [Pydub](https://github.com/jiaaro/pydub): star 9k
  	- [Librosa](https://github.com/librosa/librosa) : star 7.2k
