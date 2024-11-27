@@ -568,6 +568,8 @@
 	- [Audimentation](https://github.com/iver56/audiomentations): star 1.9k
 	- [Augly](https://github.com/facebookresearch/AugLy): star 5k
  	- [PyroomAcoustic](https://github.com/LCAV/pyroomacoustics): star 1.5k
+- Prosody
+	- [Simple Speech Features](https://github.com/uzaymacar/simple-speech-features): star 0.02k
 - Others
 	- [Pydub](https://github.com/jiaaro/pydub): star 9k
  	- [Librosa](https://github.com/librosa/librosa) : star 7.2k
