@@ -11,6 +11,7 @@
   * [c. ADReSSo 2021](#c-adresso-2021)
   * [d. ADReSS-M 2023](#d-adress-m-2023)
   * [e. TAUKDIAL 2024](#e-taukdial-2024)
+  * [f. PREPARE 2024](#f-prepare-2024)
 - [3. Novel research topics in dementia](#3-novel-research-topics-in-dementia)
   * [ASR](#asr)
   * [Data Augmentation](#data-augmentation)
@@ -166,6 +167,8 @@
 	- [Translingual Language Markers for Cognitive Assessment from Spontaneous Speech](https://doi.org/10.21437/interspeech.2024-1422) - Bao Hoang, Yijiang Pang, Hiroko Dodge, Jiayu Zhou, Interspeech, (2024), Cited By: 0
 	- [Combining Acoustic Feature Sets for Detecting Mild Cognitive Impairment in the Interspeech'24 TAUKADIAL Challenge](https://doi.org/10.21437/interspeech.2024-984) - G. Gosztolya, László Tóth, Interspeech, (2024), Cited By: 0
 
+### f. PREPARE 2024
+- [Challenge description](https://www.drivendata.org/competitions/group/nih-nia-alzheimers-adrd-competition/)
 
 ### 3. Novel research topics in dementia
 
