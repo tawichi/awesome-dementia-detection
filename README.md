@@ -572,7 +572,8 @@
 	- [Simple Speech Features](https://github.com/uzaymacar/simple-speech-features): star 0.02k
 - Others
 	- [Pydub](https://github.com/jiaaro/pydub): star 9k
- 	- [Librosa](https://github.com/librosa/librosa) : star 7.2k
+ 	- [Librosa](https://github.com/librosa/librosa): star 7.2k
+	- [Awesome domain adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation?tab=readme-ov-file): start 5.1k
 
 ***
 
