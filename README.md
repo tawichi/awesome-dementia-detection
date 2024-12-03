@@ -21,6 +21,7 @@
   * [Eye-tracking](#eye-tracking)
   * [Information Unit](#information-unit)
   * [Intermediate Pretraining](#intermediate-pretraining)
+  * [Large Language Models](#large-language-models)
   * [Novel Speech Tasks](#novel-speech-tasks)
   * [Pause&Disfluencies](#pause-disfluencies)
   * [Perplexity](#perplexity)
