@@ -12,6 +12,7 @@
   * [d. ADReSS-M 2023](#d-adress-m-2023)
   * [e. TAUKDIAL 2024](#e-taukdial-2024)
   * [f. PREPARE 2024](#f-prepare-2024)
+  * [g. NCMMSC 2021](#g-ncmmsc-2021)
 - [3. Novel research topics in dementia](#3-novel-research-topics-in-dementia)
   * [ASR](#asr)
   * [Data Augmentation](#data-augmentation)
@@ -170,6 +171,9 @@
 
 ### f. PREPARE 2024
 - [Challenge description](https://www.drivendata.org/competitions/group/nih-nia-alzheimers-adrd-competition/)
+
+### g. NCMMSC 2021
+- [dataset and baseline results](https://github.com/lzl32947/NCMMSC2021_AD_Competition)
 
 ### 3. Novel research topics in dementia
 
