@@ -15,7 +15,7 @@
   * [g. NCMMSC 2021](#g-ncmmsc-2021)
 - [3. Novel research topics in dementia](#3-novel-research-topics-in-dementia)
   * [Large Language Models](#large-language-models)
-  * [Multi-lingual](#Multi-lingual)
+  * [Cross Study](#cross-study)
   * [ASR](#asr)
   * [Data Augmentation](#data-augmentation)
   * [Dialog Act](#dialog-act)
@@ -187,11 +187,13 @@
 - 2022
 	- [Predicting dementia from spontaneous speech using large language models](https://doi.org/10.1371/journal.pdig.0000168) - Felix Agbavor, Hualou Liang, PLOS Digital Health, (2022), Cited By: 40
 
-#### Multi-lingual
+#### Cross Study
 - 2024
 	- [Automatic Spontaneous Speech Analysis for the Detection of Cognitive Functional Decline in Older Adults: Multilanguage Cross-Sectional Study](https://doi.org/10.2196/50537) - E. Ambrosini, Chiara Giangregorio, Eugenio Lomurno, Sara Moccia, M. Milis, Christos Loizou, D. Azzolino, Matteo Cesari, Manuel Cid Gala, Carmen Galán de Isla, Jonathan Gomez-Raja, N. A. Borghese, Matteo Matteucci, Simona Ferrante, JMIR Aging, (2024), Cited By: 0
 - 2023
 	- [Automatic Assessment of Alzheimer's across Three Languages Using Speech and Language Features](https://doi.org/10.21437/interspeech.2023-2079) - P. A. Pérez-Toro, T. Arias-Vergara, Franziska Braun, F. Hönig, C. A. Tóbon-Quintero, D. Aguillón, F. Lopera, L. Hincapié-Henao, M. Schuster, K. Riedhammer, A. Maier, Elmar Nöth, J. Orozco-Arroyave, Interspeech, (2023), Cited By: 0
+ - 2022
+   	- [Exploring Dementia Detection from Speech: Cross Corpus Analysis](https://doi.org/10.1109/icassp43922.2022.9747167) - Ayimnisagul Ablimit, Catarina Botelho, A. Abad, Tanja Schultz, I. Trancoso, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2022), Cited By: 12
 #### ASR
 - 2024
 	- [The Influence of Automatic Speech Recognition on Linguistic Features and Automatic Alzheimer’s Disease Detection from Spontaneous Speech](https://www.semanticscholar.org/paper/43df611c507c53db91f4c7dcc9554862a96198b1) - Jonathan Heitz, Gerold Schneider, Nicolas Langer, International Conference on Language Resources and Evaluation, (2024), Cited By: 0
@@ -474,7 +476,6 @@
 	- [Predicting Scores on the Mini-Mental State Examination (MMSE) from Spontaneous Speech](https://doi.org/10.3390/bs12090339) - A. Bueno-Cayo, Minerva del Rio Carmona, Rosa Castell-Enguix, I. Iborra-Marmolejo, Mike Murphy, T. Q. Irigaray, José Francisco Cervera, C. Moret-Tatay, Behavioral Science, (2022), Cited By: 2
 	- [Automated text‐level semantic markers of Alzheimer's disease](https://doi.org/10.1002/dad2.12276) - Camila Sanz, Facundo Carrillo, A. Slachevsky, G. Forno, Maria Luisa Gorno Tempini, Roque Villagra, A. Ibáñez, E. Tagliazucchi, Adolfo M. García, Alzheimer's & Dementia, (2022), Cited By: 16
 	- [A Transfer Learning Method for Detecting Alzheimer's Disease Based on Speech and Natural Language Processing](https://doi.org/10.3389/fpubh.2022.772592) - Ning-hong Liu, Kexue Luo, Zhenming Yuan, Yan Chen, Frontiers in Public Health, (2022), Cited By: 20
-	- [Exploring Dementia Detection from Speech: Cross Corpus Analysis](https://doi.org/10.1109/icassp43922.2022.9747167) - Ayimnisagul Ablimit, Catarina Botelho, A. Abad, Tanja Schultz, I. Trancoso, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2022), Cited By: 12
 	- [An Evaluation on Information Composition in Dementia Detection Based on Speech](https://doi.org/10.1109/ACCESS.2022.3203068) - Chuheng Zheng, Mondher Bouazizi, T. Ohtsuki, IEEE Access, (2022), Cited By: 4
 	- [Semantic Feature Extraction Using SBERT for Dementia Detection](https://doi.org/10.3390/brainsci12020270) - Yamanki Santander-Cruz, Sebastián Salazar-Colores, W. J. Paredes-García, Humberto Guendulain-Arenas, S. Tovar-Arriaga, Brain Science, (2022), Cited By: 25
 	- [Exploring linguistic feature and model combination for speech recognition based automatic AD detection](https://doi.org/10.48550/arXiv.2206.13758) - Yi Wang, Tianzi Wang, Zi Ye, Lingwei Meng, Shoukang Hu, Xixin Wu, Xunying Liu, Helen M. Meng, Interspeech, (2022), Cited By: 12
