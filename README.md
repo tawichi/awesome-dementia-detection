@@ -177,6 +177,20 @@
 
 ### 3. Novel research topics in dementia
 
+#### Large Language Models
+- 2024
+	- [Leveraging Large Language Models for Identifying Interpretable Linguistic Markers and Enhancing Alzheimer's Disease Diagnostics](https://doi.org/10.1101/2024.08.22.24312463) - T. Mo, J. Lam, V. Li, L. Cheung, medRxiv, (2024), Cited By: 0
+	- [Performance Assessment of ChatGPT vs Bard in Detecting Alzheimer's Dementia](https://doi.org/10.48550/arXiv.2402.01751) - T. BalamuraliB., Jer-Ming Chen, arXiv.org, (2024), Cited By: 1
+	- [Alzheimer's disease recognition from spontaneous speech using large language models](https://doi.org/10.4218/etrij.2023-0356) - Jeong‐Uk Bang, Seung‐Hoon Han, Byung‐Ok Kang, ETRI Journal, (2024), Cited By: 5
+	- [Optimizing and Evaluating Pre- Trained Large Language Models for Alzheimer's Disease Detection](https://doi.org/10.1109/PDP62718.2024.00046) - Filippo Casu, Enrico Grosso, A. Lagorio, G. Trunfio, International Euromicro Conference on Parallel, Distributed and Network-Based Processing, (2024), Cited By: 1
+- 2022
+	- [Predicting dementia from spontaneous speech using large language models](https://doi.org/10.1371/journal.pdig.0000168) - Felix Agbavor, Hualou Liang, PLOS Digital Health, (2022), Cited By: 40
+
+#### Multi-lingual
+- 2024
+	- [Automatic Spontaneous Speech Analysis for the Detection of Cognitive Functional Decline in Older Adults: Multilanguage Cross-Sectional Study](https://doi.org/10.2196/50537) - E. Ambrosini, Chiara Giangregorio, Eugenio Lomurno, Sara Moccia, M. Milis, Christos Loizou, D. Azzolino, Matteo Cesari, Manuel Cid Gala, Carmen Galán de Isla, Jonathan Gomez-Raja, N. A. Borghese, Matteo Matteucci, Simona Ferrante, JMIR Aging, (2024), Cited By: 0
+- 2023
+	- [Automatic Assessment of Alzheimer's across Three Languages Using Speech and Language Features](https://doi.org/10.21437/interspeech.2023-2079) - P. A. Pérez-Toro, T. Arias-Vergara, Franziska Braun, F. Hönig, C. A. Tóbon-Quintero, D. Aguillón, F. Lopera, L. Hincapié-Henao, M. Schuster, K. Riedhammer, A. Maier, Elmar Nöth, J. Orozco-Arroyave, Interspeech, (2023), Cited By: 0
 #### ASR
 - 2024
 	- [The Influence of Automatic Speech Recognition on Linguistic Features and Automatic Alzheimer’s Disease Detection from Spontaneous Speech](https://www.semanticscholar.org/paper/43df611c507c53db91f4c7dcc9554862a96198b1) - Jonathan Heitz, Gerold Schneider, Nicolas Langer, International Conference on Language Resources and Evaluation, (2024), Cited By: 0
@@ -292,22 +306,7 @@
 - 2022
 	- [Domain-aware Intermediate Pretraining for Dementia Detection with Limited Data](https://doi.org/10.21437/interspeech.2022-10862) - Youxiang Zhu, Xiaohui Liang, J. Batsis, R. Roth, Interspeech, (2022), Cited By: 5
 
-#### Large Language Models
-- 2024
-	- [Leveraging Large Language Models for Identifying Interpretable Linguistic Markers and Enhancing Alzheimer's Disease Diagnostics](https://doi.org/10.1101/2024.08.22.24312463) - T. Mo, J. Lam, V. Li, L. Cheung, medRxiv, (2024), Cited By: 0
-	- [Performance Assessment of ChatGPT vs Bard in Detecting Alzheimer's Dementia](https://doi.org/10.48550/arXiv.2402.01751) - T. BalamuraliB., Jer-Ming Chen, arXiv.org, (2024), Cited By: 1
-	- [Alzheimer's disease recognition from spontaneous speech using large language models](https://doi.org/10.4218/etrij.2023-0356) - Jeong‐Uk Bang, Seung‐Hoon Han, Byung‐Ok Kang, ETRI Journal, (2024), Cited By: 5
-	- [Optimizing and Evaluating Pre- Trained Large Language Models for Alzheimer's Disease Detection](https://doi.org/10.1109/PDP62718.2024.00046) - Filippo Casu, Enrico Grosso, A. Lagorio, G. Trunfio, International Euromicro Conference on Parallel, Distributed and Network-Based Processing, (2024), Cited By: 1
-- 2022
-	- [Predicting dementia from spontaneous speech using large language models](https://doi.org/10.1371/journal.pdig.0000168) - Felix Agbavor, Hualou Liang, PLOS Digital Health, (2022), Cited By: 40
 
-#### Longitudinal
-
-#### Multi-lingual
-- 2024
-	- [Automatic Spontaneous Speech Analysis for the Detection of Cognitive Functional Decline in Older Adults: Multilanguage Cross-Sectional Study](https://doi.org/10.2196/50537) - E. Ambrosini, Chiara Giangregorio, Eugenio Lomurno, Sara Moccia, M. Milis, Christos Loizou, D. Azzolino, Matteo Cesari, Manuel Cid Gala, Carmen Galán de Isla, Jonathan Gomez-Raja, N. A. Borghese, Matteo Matteucci, Simona Ferrante, JMIR Aging, (2024), Cited By: 0
-- 2023
-	- [Automatic Assessment of Alzheimer's across Three Languages Using Speech and Language Features](https://doi.org/10.21437/interspeech.2023-2079) - P. A. Pérez-Toro, T. Arias-Vergara, Franziska Braun, F. Hönig, C. A. Tóbon-Quintero, D. Aguillón, F. Lopera, L. Hincapié-Henao, M. Schuster, K. Riedhammer, A. Maier, Elmar Nöth, J. Orozco-Arroyave, Interspeech, (2023), Cited By: 0
 
 #### Multi-modal
 - 2024
