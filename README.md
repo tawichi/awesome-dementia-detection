@@ -180,7 +180,7 @@
 
 #### Large Language Models
 - 2024
-	- [Leveraging Large Language Models for Identifying Interpretable Linguistic Markers and Enhancing Alzheimer's Disease Diagnostics](https://doi.org/10.1101/2024.08.22.24312463) - T. Mo, J. Lam, V. Li, L. Cheung, medRxiv, (2024), Cited By: 0
+	- [Leveraging Large Language Models for Identifying Interpretable Linguistic Markers and Enhancing Alzheimer's Disease Dis](https://doi.org/10.1101/2024.08.22.24312463) - T. Mo, J. Lam, V. Li, L. Cheung, medRxiv, (2024), Cited By: 0
 	- [Performance Assessment of ChatGPT vs Bard in Detecting Alzheimer's Dementia](https://doi.org/10.48550/arXiv.2402.01751) - T. BalamuraliB., Jer-Ming Chen, arXiv.org, (2024), Cited By: 1
 	- [Alzheimer's disease recognition from spontaneous speech using large language models](https://doi.org/10.4218/etrij.2023-0356) - Jeong‐Uk Bang, Seung‐Hoon Han, Byung‐Ok Kang, ETRI Journal, (2024), Cited By: 5
 	- [Optimizing and Evaluating Pre- Trained Large Language Models for Alzheimer's Disease Detection](https://doi.org/10.1109/PDP62718.2024.00046) - Filippo Casu, Enrico Grosso, A. Lagorio, G. Trunfio, International Euromicro Conference on Parallel, Distributed and Network-Based Processing, (2024), Cited By: 1
@@ -192,8 +192,11 @@
 	- [Automatic Spontaneous Speech Analysis for the Detection of Cognitive Functional Decline in Older Adults: Multilanguage Cross-Sectional Study](https://doi.org/10.2196/50537) - E. Ambrosini, Chiara Giangregorio, Eugenio Lomurno, Sara Moccia, M. Milis, Christos Loizou, D. Azzolino, Matteo Cesari, Manuel Cid Gala, Carmen Galán de Isla, Jonathan Gomez-Raja, N. A. Borghese, Matteo Matteucci, Simona Ferrante, JMIR Aging, (2024), Cited By: 0
 - 2023
 	- [Automatic Assessment of Alzheimer's across Three Languages Using Speech and Language Features](https://doi.org/10.21437/interspeech.2023-2079) - P. A. Pérez-Toro, T. Arias-Vergara, Franziska Braun, F. Hönig, C. A. Tóbon-Quintero, D. Aguillón, F. Lopera, L. Hincapié-Henao, M. Schuster, K. Riedhammer, A. Maier, Elmar Nöth, J. Orozco-Arroyave, Interspeech, (2023), Cited By: 0
- - 2022
+        - [Exploring Language-Agnostic Speech Representations Using Domain Knowledge for Detecting Alzheimer’s Dementia](https://doi.org/10.1109/ICASSP49357.2023.10095593) - Zehra Shah, Shiguang Qi, Fei Wang, Mahtab Farrokh, Mashrura Tasnim, Eleni Stroulia, R. Greiner, Manos Plitsis, Athanasios Katsamanis, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2023), Cited By: 4
+	- [Towards Domain-Agnostic and Domain-Adaptive Dementia Detection from Spoken Language](https://doi.org/10.18653/v1/2023.acl-long.668) - Shahla Farzana, Natalie Parde, Annual Meeting of the Association for Computational Linguistics, (2023), Cited By: 2
+- 2022
    	- [Exploring Dementia Detection from Speech: Cross Corpus Analysis](https://doi.org/10.1109/icassp43922.2022.9747167) - Ayimnisagul Ablimit, Catarina Botelho, A. Abad, Tanja Schultz, I. Trancoso, IEEE International Conference on Acoustics, Speech, and Signal Processing, (2022), Cited By: 12
+	- [Are Interaction Patterns Helpful for Task-Agnostic Dementia Detection? An Empirical Exploration](https://doi.org/10.18653/v1/2022.sigdial-1.18) - Shahla Farzana, Natalie Parde, SIGDIAL Conferences, (2022), Cited By: 3
 #### ASR
 - 2024
 	- [The Influence of Automatic Speech Recognition on Linguistic Features and Automatic Alzheimer’s Disease Detection from Spontaneous Speech](https://www.semanticscholar.org/paper/43df611c507c53db91f4c7dcc9554862a96198b1) - Jonathan Heitz, Gerold Schneider, Nicolas Langer, International Conference on Language Resources and Evaluation, (2024), Cited By: 0
